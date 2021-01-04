@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=primeFactorial
+comment1.params=
+comment1.target=primeFactorial()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ calculate()
+comment4.params=num1
+comment4.target=void\ fact(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
